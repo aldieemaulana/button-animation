@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Button Animation</string>
+    <string name="button_sign_in">Sign In</string>
+</resources>
